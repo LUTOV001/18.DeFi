@@ -29,7 +29,6 @@ from typing import Any, List
 import datetime as datetime
 import pandas as pd
 import hashlib
-
 ################################################################################
 # Step 1:
 # Create a Record Data Class

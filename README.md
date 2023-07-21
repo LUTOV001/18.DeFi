@@ -68,7 +68,7 @@ streamlit run pychain.py
 #####
 ### ***2. Blockchain contents and validation***
 #### Shows the blocks in the blockchain and the validation result
-##### ![PyChainscreenshot.png](hhttps://github.com/LUTOV001/18.DeFi/blob/main/Results/PyChainscreenshot.jpg)
+##### ![PyChainscreenshot.jpg](https://github.com/LUTOV001/18.DeFi/blob/main/Results/PyChainscreenshot.jpg)
 #####
 ##### ***Note*** For more info on the "Sender", "Receiver" and "Amounts" data used, refer to this [video](https://youtu.be/Pg4bStWrk4M)
 ---

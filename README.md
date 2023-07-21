@@ -64,11 +64,11 @@ streamlit run pychain.py
 #### Below is the screen shot showing the application and results from executing the steps described above:  
 ### ***1. Streamlit Application***
 #### Shows the initial screen of the launched Streamlit web application with no data other than the Genesis block (e.g. the first block in the blockchain)
-##### ![streamlitapp.png](https://github.com/LUTOV001/14.AlgoTrading/blob/main/Results/svc_returns_plot.png)
+##### ![streamlitapp.png](https://github.com/LUTOV001/18.DeFi/blob/main/Results/streamlitapp.jpg)
 #####
 ### ***2. Blockchain contents and validation***
 #### Shows the blocks in the blockchain and the validation result
-##### ![PyChain screenshot.png](https://github.com/LUTOV001/14.AlgoTrading/blob/main/Results/svc_returns_plot.png)
+##### ![PyChainscreenshot.png](hhttps://github.com/LUTOV001/18.DeFi/blob/main/Results/PyChainscreenshot.jpg)
 #####
 ##### ***Note*** For more info on the "Sender", "Receiver" and "Amounts" data used, refer to this [video](https://youtu.be/Pg4bStWrk4M)
 ---
